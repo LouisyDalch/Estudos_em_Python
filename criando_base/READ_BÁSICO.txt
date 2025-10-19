@@ -1,2 +1,0 @@
-EXERCÍCIOS BASE:
-Nesses exercícios foram estudados sintaxes básicas da linguagem, assim como bibliotecas base como "math", a qual aparece nos exercícios.
